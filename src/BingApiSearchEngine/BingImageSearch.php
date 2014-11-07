@@ -71,13 +71,13 @@ class BingImageSearch
 	{
 		$__args = array_merge( 
 			array(
-				'options' => "'EnableHighlighting'",
-				'format' => 'json',
-				'maxResults' => 10, // Max results
+				'options'	=> "'EnableHighlighting'",
+				'format'	=> 'json',
+				'maxResults'	=> 10, // Max results
 				'adultFilters'	=> "'Off'",
-				'imageFilters' => "'Size:Large'",
-				'query'	=> '',
-				'return' => 'array'
+				'imageFilters'	=> "'Size:Large'",
+				'query'		=> '',
+				'return'	=> 'array'
 			),
 			$args
 		);
