@@ -1,4 +1,4 @@
-HttpAdapter
+BASE (Bing API Search Engine)
 ===========
 
-This PHP 5.3+ library provides you simple HTTP adapters.
+Simple implementation of Bing API
